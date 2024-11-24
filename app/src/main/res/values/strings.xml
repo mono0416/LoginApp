@@ -1,6 +1,24 @@
 <resources>
-    <string name="app_name">LoginApp</string>
+    <string name="app_name">CRUD</string>
+    <string name="str_btnbuscar">Bucar</string>
+    <string name="str_btnregistrar">Registrar</string>
+    <string name="str_btnListar">Listar</string>
 
+    <string name="str_titulo">Nombre</string>
+    <string name="str_subtitulo">Describcion</string>
+    <string name="str_isbn">ISBN</string>
+    <string name="str_autor">Autor</string>
+    <string name="str_precio">Precio</string>
 
+    <string name="str_bienvenidos">Bienvenidos</string>
+    <string name="str_descripcion_imagen">Todo</string>
+    <string name="str_Listarproductos">Listados de Productos</string>
+    <string name="str_gestionProductos">Gestion de Libros</string>
+    <string name="str_buscarProductos">Buscar producto x titulo</string>
+    <string name="str_digitetitulo">Digite el titulo a buscar</string>
+
+    <string name="str_btnborrar">Borrar</string>
+    <string name="str_btnactualizar">Actualizar</string>
+    <string name="str_btnguardar">Guardar</string>
 
 </resources>
